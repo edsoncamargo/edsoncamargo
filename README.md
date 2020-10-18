@@ -1,7 +1,7 @@
 ### Hello folks 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/edsoncamargo/)](https://github.com/edsoncamargo/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsoncmenezes/)](https://www.linkedin.com/in/edsoncmenezes/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/edsoncamargo/)](https://github.com/edsoncamargo/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsoncmenezes/)](https://www.linkedin.com/in/edsoncmenezes/)
 [![Porfolio](https://img.shields.io/website?label=dev&style=for-the-badge&up_color=c62338&up_message=Portfolio&url=https%3A%2F%2Fedsoncamargo.dev%2F%23%2F&link=https:https://edsoncamargo.dev/#/)](https://edsoncamargo.dev/#/)
 
 - 🔭 I’m currently working on Web Developer at everis.
