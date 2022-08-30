@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as Front-end Developer at fri.to.
 - 🌱 I’m currently learning Vue, Angular and I never stop studying.
-- ⚡ Technologies: Angular, Spring Boot and a lit bit about Vue and Firebase.
+- ⚡ Technologies: Angular, Spring Boot and a lit bit about React and Firebase.
 - 💬 Ask me about tech, anime, series shows, fantasy books, Harry Potter and Santos Futebol Clube.
 - 😄 Also known as: HNT3dev in games and DINHO in real life.
 - 📚 Bachelor of Information Systems
