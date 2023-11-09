@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning React Native, Angular and I never stop studying.
 - ⚡ Technologies: Javascript, Angular and a lit bit about React Native and Firebase.
 - 💬 Ask me about tech, anime, series shows, fantasy books, Harry Potter and Santos Futebol Clube.
-- 😄 Also known as: HNT3dev in games and DINHO in real life.
-- 📚 Bachelor of Information Systems
+- 😄 Also known as: HUNTER in games and DINHO in real life.
+- 📚 Bachelor of Information Systems, Postgraduate in Multiplatform Mobile Application Projects.
