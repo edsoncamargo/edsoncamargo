@@ -10,3 +10,5 @@
 - 💬 Ask me about tech, anime, series shows, fantasy books, Harry Potter and Santos Futebol Clube.
 - 😄 Also known as: HUNTER in games and DINHO in real life.
 - 📚 Bachelor of Information Systems, Postgraduate in Multiplatform Mobile Application Projects.
+
+- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
