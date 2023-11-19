@@ -15,5 +15,5 @@
   <img width="579" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark&show_icons=true&card_width=320" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width="320" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edsoncamargo&layout=compact&theme=github_dark&custom_title="Languages" />
+  <img height=200 width="320" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edsoncamargo&layout=compact&theme=github_dark&custom_title="'Languages'" />
 </a>
