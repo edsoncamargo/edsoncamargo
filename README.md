@@ -12,12 +12,7 @@
 - 📚 Bachelor of Information Systems, Postgraduate in Multiplatform Mobile Application Projects.
 
 <div style="display: flex">
-  <div style="flex: 1">
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncamargo&theme=github_dark&layout=compact)
-  <div>
-
-  <div style="flex: 1">
     ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark)
-  <div>
 </div>
 
