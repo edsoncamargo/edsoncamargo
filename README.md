@@ -11,8 +11,5 @@
 - 😄 Also known as: HUNTER in games and DINHO in real life.
 - 📚 Bachelor of Information Systems, Postgraduate in Multiplatform Mobile Application Projects.
 
-<div style="display: flex">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-    - ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark)
-</div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsoncamargo&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsoncamargo&show_icons=true&theme=github_dark)
