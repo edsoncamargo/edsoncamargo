@@ -3,8 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=7A7DDE&random=false&width=435&lines=HELLO+FOLKS+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<br>
-
 - 🔭 I’m currently working as Front-end Developer at frt.
 - 🌱 I’m currently learning React Native, Angular and I never stop studying.
 - ⚡ Technologies: Javascript, Angular and a lit bit about React Native and Firebase.
