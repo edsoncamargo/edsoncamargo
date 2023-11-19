@@ -13,6 +13,6 @@
 - <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark&show_icons=true&card_width=320&custom_title=⌛" />
 - <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=github_dark&custom_title=⌨️" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7A7DDE&random=false&width=435&lines=MY+ARTICLES+%F0%9F%93%91)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7A7DDE&random=false&width=435&lines=MY+ARTICLES+%F0%9F%93%91)](https://git.io/typing-svg)
 
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=edsoncamargo.dev)](https://medium.com/@edsoncamargo.dev)
