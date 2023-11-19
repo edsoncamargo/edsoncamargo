@@ -12,7 +12,7 @@
 - 📚 Bachelor of Information Systems, Postgraduate in Multiplatform Mobile Application Projects.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=400 width="320" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark&show_icons=true&card_width=320" />
+  <img height=579 width="320" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark&show_icons=true&card_width=320" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 width="320" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edsoncamargo&layout=compact&theme=github_dark" />
