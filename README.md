@@ -13,4 +13,4 @@
 - <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark&show_icons=true&card_width=320&custom_title=⌛" />
 - <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=github_dark&custom_title=⌨️" />
 
-
+- [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=edsoncamargo.dev)](https://medium.com/@edsoncamargo.dev)
