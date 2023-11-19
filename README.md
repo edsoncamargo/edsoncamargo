@@ -11,12 +11,8 @@
 - 😄 Also known as: HUNTER in games and DINHO in real life.
 - 📚 Bachelor of Information Systems, Postgraduate in Multiplatform Mobile Application Projects.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark&show_icons=true&card_width=320" />
-</a>
 
 <br><br><br><br>
 
-<a href="https://github.com/anuraghazra/convoychat">
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
-</a>
