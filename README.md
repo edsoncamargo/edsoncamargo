@@ -11,4 +11,4 @@
 - 😄 Also known as: HUNTER in games and DINHO in real life.
 - 📚 Bachelor of Information Systems, Postgraduate in Multiplatform Mobile Application Projects.
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncamargo&hide=javascript,html)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncamargo&theme=dark)
