@@ -17,4 +17,5 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1&pause=1000&color=7A7DDE&repeat=false&random=false&width=435&lines=MY+ARTICLES+%F0%9F%93%91)](https://git.io/typing-svg)
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=edsoncamargo.dev)](https://medium.com/@edsoncamargo.dev)
+<img height=200 align="center" src="https://github-readme-medium.vercel.app/?username=edsoncamargo.dev" />
+
