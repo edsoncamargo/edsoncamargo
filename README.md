@@ -9,7 +9,9 @@
 - 💬 Ask me about tech, anime, series shows, fantasy books, Harry Potter and Santos Futebol Clube.
 - 😄 Also known as: HUNTER in games and DINHO in real life.
 - 📚 Bachelor of Information Systems, Postgraduate in Multiplatform Mobile Application Projects.
-  
+
+<br/>
+
 - <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark&show_icons=true&card_width=320&custom_title=Time%20coding%20⌛" />
 - <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=github_dark&custom_title=Languages%20I%20use%20⌨️" />
 
