@@ -26,4 +26,7 @@
 
 ## LINKS
 
-<img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></img>
+<a href="https://medium.com/@edsoncamargo.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></img>
+</a>
+
