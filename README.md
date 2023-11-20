@@ -15,5 +15,9 @@
 - <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark&bg_color=101823&title_color=7A7DDE&hide_border=true&show_icons=true&card_width=320&custom_title=TIME%20CODING%20⌛" />
 
 ## ⚙️
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
