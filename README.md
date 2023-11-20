@@ -21,3 +21,7 @@
 ![TYPESCRIPT Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Angular Badge](https://img.shields.io/badge/Angular-E23237.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![React Native Badge](https://img.shields.io/badge/-react%20native-white?logo=react&logoColor=black&style=for-the-badge)
+
+## LINKS
+
+![HTML5 Badge](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@edsoncamargo.dev)
