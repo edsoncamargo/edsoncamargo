@@ -1,6 +1,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsoncmenezes/)](https://www.linkedin.com/in/edsoncmenezes/)
 [![Porfolio](https://img.shields.io/website?label=dev&style=for-the-badge&up_color=c62338&up_message=Portfolio&url=https%3A%2F%2Fedsoncamargo.dev%2F%23%2F&link=https:https://edsoncamargo.dev/#/)](https://edsoncamargo.dev/#/)
 
+[![Header](/header.png)
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=7A7DDE&random=false&width=435&lines=HELLO+FOLKS+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working as Front-end Developer at frt.
