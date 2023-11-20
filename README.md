@@ -8,7 +8,7 @@
 - 😄 Also known as: **DINHO**.
 - 📚 Holds a **Bachelor's degree in Information Systems** and a **Postgraduate in Multiplatform Mobile Application Projects**.
 - 🚀 Passionate about crafting innovative solutions and constantly seeking ways to level up my coding skills.
-- 🏆 Proud contributor to [SphinxStudio](https://sphinx.studio/).
+- 🏆 Proud contributor to [Sphinx Studio](https://sphinx.studio/).
 
 <br/>
 
