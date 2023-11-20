@@ -12,5 +12,5 @@
 
 <br/>
 
-- <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark&bg_color=101823&title_color=7A7DDE&hide_border=true&show_icons=true&card_width=320&custom_title=Time%20coding%20⌛" />
+- <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark&bg_color=101823&title_color=7A7DDE&hide_border=true&show_icons=true&card_width=320&custom_title=TIME%CODING%20⌛" />
 
