@@ -8,7 +8,7 @@
 - 💬 Ask me about tech, anime, series shows, fantasy books, Harry Potter and Santos Futebol Clube.
 - 😄 Also known as: HUNTER in games and DINHO in real life.
 - 📚 Bachelor of Information Systems, Postgraduate in Multiplatform Mobile Application Projects.
-- [![Linkedin Badge](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@edsoncamargo.dev)]
+- ![Linkedin Badge](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@edsoncamargo.dev)
 
 <br/>
 
