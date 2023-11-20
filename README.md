@@ -14,3 +14,5 @@
 
 - <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark&bg_color=101823&title_color=7A7DDE&hide_border=true&show_icons=true&card_width=320&custom_title=TIME%20CODING%20⌛" />
 
+## ⚙️
+[![Angular](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white)
