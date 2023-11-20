@@ -2,11 +2,13 @@
 
 ## ABOUT 🙋🏽‍♂️
 
-- 🔭 I’m currently working as **Front-end Developer** at frt.
-- 🌱 I never stop studying, but now specifically I'm learning **React Native**.
-- 💬 Ask me about **tech, anime, series shows, fantasy books, Harry Potter and Santos Futebol Clube**.
+- 🔭 At frt, I shape digital experiences as a **Front-end Developer**.
+- 🌱 Currently immersed in the world of **React Native**, always hungry to learn.
+- 💬 Let's chat about **tech, anime, series shows, fantasy books, Harry Potter, and my beloved Santos Futebol Clube**.
 - 😄 Also known as: **DINHO**.
-- 📚 **Bachelor of Information Systems, Postgraduate in Multiplatform Mobile Application Projects**.
+- 📚 Holds a **Bachelor's degree in Information Systems** and a **Postgraduate in Multiplatform Mobile Application Projects**.
+- 🚀 Passionate about crafting innovative solutions and constantly seeking ways to level up my coding skills.
+- 🏆 Proud contributor to [SphinxStudio](https://sphinx.studio/).
 
 <br/>
 
