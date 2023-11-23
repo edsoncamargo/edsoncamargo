@@ -20,7 +20,7 @@
 In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/QMhRjxt3/Icone-UP-3.png"/>](https://frt.digital/)
-**Software Engineer at Frt** \
+**Software Engineer** \
 [**Frt**](https://frt.digital/) • Full-time \
 Skills: `Front-end Development`, `Angular`, `HTML/SASS/JS/TS`, 
 <br/> `Storybook`, `Component Library`, `Acessibilidade W3C`
