@@ -19,17 +19,15 @@
 ## ACADEMIC BACKGROUND:
 In the overview below you will find my academic background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQEjjqdH7OFwuA/company-logo_100_100/0/1674593229655/frtdigital_logo?e=1708560000&v=beta&t=en-gyb4wqUlIIBkOluJpStJCWlX3oGAjZQ-n4R8qyY4"/>](https://frt.digital/)
-**Software Engineer** \
-[**Frt**](https://frt.digital/) • Full-time \
-Skills: `Front-end Development`, `Angular`, `HTML/SASS/JS/TS`, 
-<br/> `Storybook`, `Component Library`, `Acessibilidade W3C`
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQHj9Hfv-9Ug8w/company-logo_200_200/0/1698853996935/centrouniversitariosenac_logo?e=1708560000&v=beta&t=qu8VURF0AEGMSVyq5Wxqqco6rq2_xh7tavbTWPRnATU"/>](https://www.sp.senac.br/)
+**Bachelor's Degree in Information Systems** \
+[**Centro Universitário Senac**](https://www.sp.senac.br/) • ON-CAMPUS  \
+Skills: `Angular`, `HTML/SASS/JS/TS`, `Scrum`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQEjjqdH7OFwuA/company-logo_100_100/0/1674593229655/frtdigital_logo?e=1708560000&v=beta&t=en-gyb4wqUlIIBkOluJpStJCWlX3oGAjZQ-n4R8qyY4"/>](https://frt.digital/)
-**Software Engineer** \
-[**Frt**](https://frt.digital/) • Full-time \
-Skills: `Front-end Development`, `Angular`, `HTML/SASS/JS/TS`, 
-<br/> `Storybook`, `Component Library`, `Acessibilidade W3C`
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQH1QLryW1IEFQ/company-logo_200_200/0/1630552069493/faculdade_descomplica_logo?e=1708560000&v=beta&t=Vg-VO9LXc_ofniFRJXOWTugIhI5AyklXGNWq2vcPlac"/>](https://descomplica.com.br/)
+**Postgraduate Degree in Cross-Platform Mobile Application Projects** \
+[**Descomplica**](https://descomplica.com.br/) • EAD \
+Skills: `Mobile Development`
 
 ## PROFESSIONAL EXPERIENCE:
 In the overview below you will find my most recent work experience:
