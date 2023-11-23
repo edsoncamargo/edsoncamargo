@@ -16,6 +16,19 @@
 
 - <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark&bg_color=101823&title_color=7A7DDE&hide_border=true&show_icons=true&card_width=320&custom_title=TIME%20CODING%20⌛" />
 
+## ACADEMIC BACKGROUND:
+In the overview below you will find my academic background:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQHj9Hfv-9Ug8w/company-logo_200_200/0/1698853996935/centrouniversitariosenac_logo?e=1708560000&v=beta&t=qu8VURF0AEGMSVyq5Wxqqco6rq2_xh7tavbTWPRnATU")
+**Bachelor's Degree in Information Systems** \
+[**Centro Universitário Senac**](https://www.sp.senac.br/) \
+Skills: `Angular`, `HTML/SASS/JS/TS`, `Scrum`
+<hr>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQH1QLryW1IEFQ/company-logo_200_200/0/1630552069493/faculdade_descomplica_logo?e=1708560000&v=beta&t=Vg-VO9LXc_ofniFRJXOWTugIhI5AyklXGNWq2vcPlac"/>](https://descomplica.com.br/)
+**Postgraduate Degree in Cross-Platform Mobile Application Projects** \
+[**Descomplica**](https://descomplica.com.br/) \
+Skills: `Mobile Development`
+
 ## PROFESSIONAL EXPERIENCE:
 In the overview below you will find my most recent work experience:
 
