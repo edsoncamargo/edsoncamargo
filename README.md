@@ -16,6 +16,15 @@
 
 - <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark&bg_color=101823&title_color=7A7DDE&hide_border=true&show_icons=true&card_width=320&custom_title=TIME%20CODING%20⌛" />
 
+## PROFESSIONAL EXPERIENCE:
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/QMhRjxt3/Icone-UP-3.png"/>](https://frt.digital/)
+**Software Engineer at Frt** \
+[**Frt**](https://frt.digital/) • Full-time \
+Skills: `Front-end Development`, `Angular`, `HTML/SASS/JS/TS`, 
+<br/> `Storybook`, `Component Library`, `Acessibilidade W3C`
+
 ## TECH KNOWLEDGE ⚙️
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
