@@ -24,7 +24,7 @@ In the overview below you will find my academic background:
 [**Frt**](https://frt.digital/) • Full-time \
 Skills: `Front-end Development`, `Angular`, `HTML/SASS/JS/TS`, 
 <br/> `Storybook`, `Component Library`, `Acessibilidade W3C`
-<hr/>
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQEjjqdH7OFwuA/company-logo_100_100/0/1674593229655/frtdigital_logo?e=1708560000&v=beta&t=en-gyb4wqUlIIBkOluJpStJCWlX3oGAjZQ-n4R8qyY4"/>](https://frt.digital/)
 **Software Engineer** \
 [**Frt**](https://frt.digital/) • Full-time \
