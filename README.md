@@ -23,11 +23,13 @@ In the overview below you will find my academic background:
 **Bachelor's Degree in Information Systems** \
 [**Centro Universitário Senac**](https://www.sp.senac.br/) \
 Skills: `Angular`, `HTML/SASS/JS/TS`, `Scrum`
-<hr>
+<hr><br>
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQH1QLryW1IEFQ/company-logo_200_200/0/1630552069493/faculdade_descomplica_logo?e=1708560000&v=beta&t=Vg-VO9LXc_ofniFRJXOWTugIhI5AyklXGNWq2vcPlac"/>](https://descomplica.com.br/)
 **Postgraduate Degree in Cross-Platform Mobile Application Projects** \
 [**Descomplica**](https://descomplica.com.br/) \
 Skills: `Mobile Development`
+
+<br>
 
 ## PROFESSIONAL EXPERIENCE:
 In the overview below you will find my most recent work experience:
