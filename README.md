@@ -52,3 +52,6 @@ Skills: `Front-end Development`, `Angular`, `HTML/SASS/JS/TS`,
   <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></img>
 </a>
 
+<a href="[https://medium.com/@edsoncamargo.dev](https://github.com/edsoncamargo/edsoncamargo/blob/main/Curriculum.pdf)" target="_blank">
+  Go to curriculum
+</a>
