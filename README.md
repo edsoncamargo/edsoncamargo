@@ -1,4 +1,4 @@
-![Header](/header.png)
+![Header](/Header.png)
 
 [![Passionate about crafting seamless web experiences. Let's build something amazing 💻✨](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=7A7DDE&random=false&width=435&lines=Passionate+about+crafting+seamless+;web+experiences.;Let's+build+something+amazing+%F0%9F%92%BB%E2%9C%A8)](https://git.io/typing-svg)
 
