@@ -54,6 +54,4 @@ Skills: `Front-end Development`, `Angular`, `HTML/SASS/JS/TS`,
 
 <br><br>
 
-<a href="https://github.com/edsoncamargo/edsoncamargo/blob/main/Curriculum.pdf" target="_blank">
-  Go to curriculum 📝
-</a>
+[Go to curriculum 📝](https://github.com/edsoncamargo/edsoncamargo/blob/main/Curriculum.pdf)
