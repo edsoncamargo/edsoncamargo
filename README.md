@@ -24,7 +24,7 @@ In the overview below you will find my academic background:
 [**Centro Universitário Senac**](https://www.sp.senac.br/) • ON-CAMPUS  \
 Skills: `Angular`, `HTML/SASS/JS/TS`, `Java`, `SQL`, `Scrum`
 
-## [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQH1QLryW1IEFQ/company-logo_200_200/0/1630552069493/faculdade_descomplica_logo?e=1708560000&v=beta&t=Vg-VO9LXc_ofniFRJXOWTugIhI5AyklXGNWq2vcPlac"/>](https://descomplica.com.br/)
+## [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQH1QLryW1IEFQ/company-logo_200_200/0/1630552069493/faculdade_descomplica_logo?e=1717632000&v=beta&t=XePJgnb8mTs1-91_EC4hFKAjMWBWN4v19d71hhncS74"/>](https://descomplica.com.br/)
 **Postgraduate Degree in Cross-Platform Mobile Application Projects** \
 [**Descomplica**](https://descomplica.com.br/) • EAD \
 Skills: `Mobile Development`
