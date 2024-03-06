@@ -47,10 +47,7 @@ Skills: `Front-end Development`, `Angular`, `HTML/SASS/JS/TS`,
 ![React Native Badge](https://img.shields.io/badge/-react%20native-white?logo=react&logoColor=black&style=for-the-badge)
 
 ## LINKS
-
-<a href="https://medium.com/@edsoncamargo.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></img>
-</a>
+![Medium Badge](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)
 
 <br><br>
 
