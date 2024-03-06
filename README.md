@@ -19,7 +19,7 @@
 ## ACADEMIC BACKGROUND 📚
 In the overview below you will find my academic background:
 
-## [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQHj9Hfv-9Ug8w/company-logo_200_200/0/1698853996935/centrouniversitariosenac_logo?e=1708560000&v=beta&t=qu8VURF0AEGMSVyq5Wxqqco6rq2_xh7tavbTWPRnATU"/>](https://www.sp.senac.br/)
+## [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQEu95fNy3hIDw/company-logo_200_200/0/1704197562391/senacsaopaulo_logo?e=1717632000&v=beta&t=_brcPHaaFtb_70ap6xZ5AkfOFekrWXH9txgNLkDC9BU"/>](https://www.sp.senac.br/)
 **Bachelor's Degree in Information Systems** \
 [**Centro Universitário Senac**](https://www.sp.senac.br/) • ON-CAMPUS  \
 Skills: `Angular`, `HTML/SASS/JS/TS`, `Java`, `SQL`, `Scrum`
