@@ -9,7 +9,6 @@
 ## SOBRE 🙋🏽‍♂️
 
 - 🔭 Moldo experiências digitais como um **Desenvolvedor Frontend**, atualmente na **frt**.
-- ⚙️ Principais competências: **Angular • JavaScript • TypeScript • React Native • Storybook**.
 - 🌱 Atualmente imerso no mundo do **React Native**, sempre com fome de aprender.
 - 💬 Vamos conversar sobre **tecnologia, anime, séries de TV, livros de fantasia, Harry Potter e meu amado Santos Futebol Clube**.
 - 😄 Também conhecido como: **DINHO**.
@@ -44,11 +43,11 @@ Skills: `Frontend Development`, `Angular`, `HTML/SASS/JS/TS`,
 <br/> `Storybook`, `Biblioteca de componentes`, `Acessibilidade W3C`
 
 CONHECIMENTOS EM TECNOLOGIA ⚙️
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
+![Angular Badge](https://img.shields.io/badge/Angular-E23237.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![JAVASCRIPT Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TYPESCRIPT Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Angular Badge](https://img.shields.io/badge/Angular-E23237.svg?style=for-the-badge&logo=Angular&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 ![React Native Badge](https://img.shields.io/badge/-react%20native-white?logo=react&logoColor=black&style=for-the-badge)
 
 ## LINKS
