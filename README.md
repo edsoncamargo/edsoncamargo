@@ -42,7 +42,7 @@ Aqui está um resumo da minha experiência profissional mais recente:
 Skills: `Frontend Development`, `Angular`, `HTML/SASS/JS/TS`, 
 <br/> `Storybook`, `Biblioteca de componentes`, `Acessibilidade W3C`
 
-CONHECIMENTOS EM TECNOLOGIA ⚙️
+## CONHECIMENTOS EM TECNOLOGIA ⚙️
 ![Angular Badge](https://img.shields.io/badge/Angular-E23237.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![JAVASCRIPT Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TYPESCRIPT Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
