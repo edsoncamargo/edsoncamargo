@@ -60,4 +60,4 @@ CONHECIMENTOS EM TECNOLOGIA ⚙️
 
 <br><br>
 
-[Go to curriculum 📝](https://github.com/edsoncamargo/edsoncamargo/blob/main/Curriculum.jpg)
+[Ir até meu currículo 📝](https://github.com/edsoncamargo/edsoncamargo/blob/main/Curriculum.jpg)
