@@ -4,7 +4,7 @@
 
 ## ABOUT 🙋🏽‍♂️
 
-- 🔭 At frt, I shape digital experiences as a **Front-end Developer**.
+- 🔭 At frt, I shape digital experiences as a **Frontend Developer**.
 - 🌱 Currently immersed in the world of **React Native**, always hungry to learn.
 - 💬 Let's chat about **tech, anime, series shows, fantasy books, Harry Potter, and my beloved Santos Futebol Clube**.
 - 😄 Also known as: **DINHO**.
