@@ -2,15 +2,19 @@
 
 [![Passionate about crafting seamless web experiences. Let's build something amazing 💻✨](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=7A7DDE&random=false&width=435&lines=Passionate+about+crafting+seamless+;web+experiences.;Let's+build+something+amazing+%F0%9F%92%BB%E2%9C%A8)](https://git.io/typing-svg)
 
-## ABOUT 🙋🏽‍♂️
+<a href="https://github.com/edsoncamargo/edsoncamargo/blob/main/README-EN.md" style="color: transparent; text-decoration: none;">
+  🇺🇸 Don't speak Portuguese? Click here to view the english version.
+</a>
 
-- 🔭 At frt, I shape digital experiences as a **Frontend Developer**.
-- 🌱 Currently immersed in the world of **React Native**, always hungry to learn.
-- 💬 Let's chat about **tech, anime, series shows, fantasy books, Harry Potter, and my beloved Santos Futebol Clube**.
-- 😄 Also known as: **DINHO**.
-- 📚 Holds a **Bachelor's degree in Information Systems** and a **Postgraduate in Multiplatform Mobile Application Projects**.
-- 🚀 Passionate about crafting innovative solutions and constantly seeking ways to level up my coding skills.
-- 🏆 Proud contributor to [Sphinx Studio](https://sphinx.studio/).
+## SOBRE 🙋🏽‍♂️
+
+- 🔭 Moldo experiências digitais como um **Desenvolvedor Frontend**, atualmente na **frt**.
+- 🌱 Atualmente imerso no mundo do **React Native**, sempre com fome de aprender.
+- 💬 Vamos conversar sobre **tecnologia, anime, séries de TV, livros de fantasia, Harry Potter e meu amado Santos Futebol Clube**.
+- 😄 Também conhecido como: **DINHO**.
+- 📚 **Graduado em Sistemas de Informação** e **pós-graduado em Projetos de Aplicativos Móveis Multiplataforma**.
+- 🚀 Apaixonado por criar soluções inovadoras e sempre buscando maneiras de aprimorar minhas habilidades de codificação.
+- 🏆 Orgulhoso colaborador do site [Sphinx Studio](https://sphinx.studio/).
 
 <br/>
 
