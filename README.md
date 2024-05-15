@@ -20,29 +20,29 @@
 
 - <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsoncamargo&theme=github_dark&bg_color=101823&title_color=7A7DDE&hide_border=true&show_icons=true&card_width=320&custom_title=TIME%20CODING%20⌛" />
 
-## ACADEMIC BACKGROUND 📚
-In the overview below you will find my academic background:
+## FORMAÇÃO ACADÊMICA 📚
+Aqui está minha formação acadêmica:
 
 ## [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQEu95fNy3hIDw/company-logo_200_200/0/1704197562391/senacsaopaulo_logo?e=1717632000&v=beta&t=_brcPHaaFtb_70ap6xZ5AkfOFekrWXH9txgNLkDC9BU"/>](https://www.sp.senac.br/)
-**Bachelor's Degree in Information Systems** \
-[**Centro Universitário Senac**](https://www.sp.senac.br/) • ON-CAMPUS  \
-Skills: `Angular`, `HTML/SASS/JS/TS`, `Java`, `SQL`, `Scrum`
+**Graduação em Sistemas de Informação** \
+[**Centro Universitário Senac**](https://www.sp.senac.br/) • PRESENCIAL  \
+Habilidades: `Angular`, `HTML/SASS/JS/TS`, `Java`, `SQL`, `Scrum`
 
 ## [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQH1QLryW1IEFQ/company-logo_200_200/0/1630552069493/faculdade_descomplica_logo?e=1717632000&v=beta&t=XePJgnb8mTs1-91_EC4hFKAjMWBWN4v19d71hhncS74"/>](https://descomplica.com.br/)
-**Postgraduate Degree in Cross-Platform Mobile Application Projects** \
+**Pós-graduação em Projetos de Aplicativos Móveis Multiplataforma** \
 [**Descomplica**](https://descomplica.com.br/) • EAD \
-Skills: `Mobile Development`
+Habilidades: `Desenvolvimento Mobile`
 
-## PROFESSIONAL EXPERIENCE 🧑🏽‍💻
-In the overview below you will find my most recent work experience:
+## EXPERIÊNCIA PROFISSIONAL 🧑🏽‍💻
+Aqui está um resumo da minha experiência profissional mais recente:
 
 ## <img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQEjjqdH7OFwuA/company-logo_200_200/0/1674593229655/frtdigital_logo?e=1717632000&v=beta&t=q1PqDIcnqAX5BUqZTeNiKLXTN5nq5FvW8mYpTo7eDGo"/>
 **Software Engineer** \
 [**Frt**](https://frt.digital/) • Full-time \
-Skills: `Front-end Development`, `Angular`, `HTML/SASS/JS/TS`, 
-<br/> `Storybook`, `Component Library`, `Acessibilidade W3C`
+Skills: `Frontend Development`, `Angular`, `HTML/SASS/JS/TS`, 
+<br/> `Storybook`, `Biblioteca de componentes`, `Acessibilidade W3C`
 
-## TECH KNOWLEDGE ⚙️
+CONHECIMENTOS EM TECNOLOGIA ⚙️
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 ![JAVASCRIPT Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
