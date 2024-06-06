@@ -20,12 +20,12 @@
 ## ACADEMIC BACKGROUND 📚
 In the overview below you will find my academic background:
 
-## [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQEu95fNy3hIDw/company-logo_200_200/0/1704197562391/senacsaopaulo_logo?e=1717632000&v=beta&t=_brcPHaaFtb_70ap6xZ5AkfOFekrWXH9txgNLkDC9BU"/>](https://www.sp.senac.br/)
+## [<img align="left" height="94px" width="94px" alt="Senac" src="https://media.licdn.com/dms/image/D4D0BAQEu95fNy3hIDw/company-logo_200_200/0/1704197562391/senacsaopaulo_logo?e=1725494400&v=beta&t=WUn2g4DzgEkRS16-5jYmo8sK5NrleyQ1EjNn5wjxiZE"/>](https://www.sp.senac.br/)
 **Bachelor's Degree in Information Systems** \
 [**Centro Universitário Senac**](https://www.sp.senac.br/) • ON-CAMPUS  \
 Skills: `Angular`, `HTML/SASS/JS/TS`, `Java`, `SQL`, `Scrum`
 
-## [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQH1QLryW1IEFQ/company-logo_200_200/0/1630552069493/faculdade_descomplica_logo?e=1717632000&v=beta&t=XePJgnb8mTs1-91_EC4hFKAjMWBWN4v19d71hhncS74"/>](https://descomplica.com.br/)
+## [<img align="left" height="94px" width="94px" alt="Descomplica" src="https://media.licdn.com/dms/image/C4D0BAQH1QLryW1IEFQ/company-logo_200_200/0/1630552069493/faculdade_descomplica_logo?e=1725494400&v=beta&t=B6gFjtBXPqsi0TnMkF_XRDKIZBkbLq40WbYprt9IktM"/>](https://descomplica.com.br/)
 **Postgraduate Degree in Cross-Platform Mobile Application Projects** \
 [**Descomplica**](https://descomplica.com.br/) • EAD \
 Skills: `Mobile Development`
@@ -33,7 +33,7 @@ Skills: `Mobile Development`
 ## PROFESSIONAL EXPERIENCE 🧑🏽‍💻
 In the overview below you will find my most recent work experience:
 
-## <img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQEjjqdH7OFwuA/company-logo_200_200/0/1674593229655/frtdigital_logo?e=1717632000&v=beta&t=q1PqDIcnqAX5BUqZTeNiKLXTN5nq5FvW8mYpTo7eDGo"/>
+## <img align="left" height="94px" width="94px" alt="Frt" src="https://media.licdn.com/dms/image/C4E0BAQEjjqdH7OFwuA/company-logo_200_200/0/1674593229655/frtdigital_logo?e=1725494400&v=beta&t=uCDmTbtA3RR9Yi3eBAnehLBQ_cTKOVebVux4kqTYAqI"/>
 **Software Engineer** \
 [**Frt**](https://frt.digital/) • Full-time \
 Skills: `Front-end Development`, `Angular`, `HTML/SASS/JS/TS`, 
