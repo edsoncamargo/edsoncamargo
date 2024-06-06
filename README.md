@@ -36,7 +36,7 @@ Habilidades: `Desenvolvimento Mobile`
 ## EXPERIÊNCIA PROFISSIONAL 🧑🏽‍💻
 Aqui está um resumo da minha experiência profissional mais recente:
 
-## <img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQEjjqdH7OFwuA/company-logo_200_200/0/1674593229655/frtdigital_logo?e=1717632000&v=beta&t=q1PqDIcnqAX5BUqZTeNiKLXTN5nq5FvW8mYpTo7eDGo"/>
+## <img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQEjjqdH7OFwuA/company-logo_200_200/0/1674593229655/frtdigital_logo?e=1725494400&v=beta&t=uCDmTbtA3RR9Yi3eBAnehLBQ_cTKOVebVux4kqTYAqI"/>
 **Software Engineer** \
 [**Frt**](https://frt.digital/) • Full-time \
 Skills: `Frontend Development`, `Angular`, `HTML/SASS/JS/TS`, 
