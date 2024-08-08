@@ -8,7 +8,7 @@
 
 ## SOBRE 🙋🏽‍♂️
 
-- 🔭 Moldo experiências digitais como um **Desenvolvedor Frontend**, atualmente na **frt**.
+- 🔭 Moldo experiências digitais como um **Desenvolvedor Frontend**, atualmente na **GFT Technologies**.
 - 🌱 Atualmente imerso no mundo do **React Native**, sempre com fome de aprender.
 - 💬 Vamos conversar sobre **tecnologia, anime, séries de TV, livros de fantasia, Harry Potter e meu amado Santos Futebol Clube**.
 - 😄 Também conhecido como: **DINHO**.
