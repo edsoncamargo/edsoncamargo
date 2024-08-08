@@ -38,7 +38,7 @@ Aqui está um resumo da minha experiência profissional mais recente:
 
 ## <img align="left" height="94px" width="94px" alt="Frt" src="https://i.imgur.com/uqdl7eW.jpeg"/>
 **Frontend Developer** \
-[**GFT Technologies**](https://www.gft.com/) • Full-time \
+[**GFT Technologies**](https://www.gft.com/) • FULL-TIME \ REMOTO \
 Skills: `Frontend Development`, `Angular`, `HTML/SASS/JS/TS`, 
 <br/> `Storybook`, `Biblioteca de componentes`, `Acessibilidade W3C`
 
