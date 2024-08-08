@@ -4,7 +4,7 @@
 
 ## ABOUT 🙋🏽‍♂️
 
-- 🔭 At frt, I shape digital experiences as a **Frontend Developer**.
+- 🔭 At GFT Technologies, I shape digital experiences as a **Frontend Developer**.
 - ⚙️ Main competencies: **Angular • JavaScript • TypeScript • React Native • Storybook**.
 - 🌱 Currently immersed in the world of **React Native**, always hungry to learn.
 - 💬 Let's chat about **tech, anime, series shows, fantasy books, Harry Potter, and my beloved Santos Futebol Clube**.
