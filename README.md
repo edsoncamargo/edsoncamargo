@@ -36,7 +36,7 @@ Habilidades: `Desenvolvimento Mobile`
 ## EXPERIÊNCIA PROFISSIONAL 🧑🏽‍💻
 Aqui está um resumo da minha experiência profissional mais recente:
 
-## <img align="left" height="94px" width="94px" alt="Frt" src="https://imgur.com/uqdl7eW"/>
+## <img align="left" height="94px" width="94px" alt="Frt" src="https://i.imgur.com/uqdl7eW.jpeg"/>
 **Frontend Developer** \
 [**GFT Technologies**](https://www.gft.com/) • Full-time \
 Skills: `Frontend Development`, `Angular`, `HTML/SASS/JS/TS`, 
