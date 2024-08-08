@@ -33,9 +33,9 @@ Skills: `Mobile Development`
 ## PROFESSIONAL EXPERIENCE 🧑🏽‍💻
 In the overview below you will find my most recent work experience:
 
-## <img align="left" height="94px" width="94px" alt="Frt" src="https://media.licdn.com/dms/image/C4E0BAQEjjqdH7OFwuA/company-logo_200_200/0/1674593229655/frtdigital_logo?e=1725494400&v=beta&t=uCDmTbtA3RR9Yi3eBAnehLBQ_cTKOVebVux4kqTYAqI"/>
-**Software Engineer** \
-[**Frt**](https://frt.digital/) • Full-time \
+## <img align="left" height="94px" width="94px" alt="Frt" src="https://media.licdn.com/dms/image/v2/C4D0BAQFiyyEUZjtqTg/company-logo_200_200/company-logo_200_200/0/1630489561779/gft_group_logo?e=1730937600&v=beta&t=D2kHBbR4REORWocx3UjW8x-6Foc12Ef49Jaf9CVFNSI"/>
+**Frontend Developer** \
+[**GFT Technologies**](https://www.gft.com/) • Full-time \
 Skills: `Front-end Development`, `Angular`, `HTML/SASS/JS/TS`, 
 <br/> `Storybook`, `Component Library`, `Acessibilidade W3C`
 
