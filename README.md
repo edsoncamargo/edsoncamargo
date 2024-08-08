@@ -23,12 +23,12 @@
 ## FORMAÇÃO ACADÊMICA 📚
 Aqui está minha formação acadêmica:
 
-## [<img align="left" height="94px" width="94px" alt="Senac" src="https://media.licdn.com/dms/image/D4D0BAQEu95fNy3hIDw/company-logo_200_200/0/1704197562391/senacsaopaulo_logo?e=1725494400&v=beta&t=WUn2g4DzgEkRS16-5jYmo8sK5NrleyQ1EjNn5wjxiZE"/>](https://www.sp.senac.br/)
+## [<img align="left" height="94px" width="94px" alt="Senac" src="https://imgur.com/DSb5Ach.jpeg"/>](https://www.sp.senac.br/)
 **Graduação em Sistemas de Informação** \
 [**Centro Universitário Senac**](https://www.sp.senac.br/) • PRESENCIAL  \
 Habilidades: `Angular`, `HTML/SASS/JS/TS`, `Java`, `SQL`, `Scrum`
 
-## [<img align="left" height="94px" width="94px" alt="Descomplica" src="https://media.licdn.com/dms/image/C4D0BAQH1QLryW1IEFQ/company-logo_200_200/0/1630552069493/faculdade_descomplica_logo?e=1725494400&v=beta&t=B6gFjtBXPqsi0TnMkF_XRDKIZBkbLq40WbYprt9IktM"/>](https://descomplica.com.br/)
+## [<img align="left" height="94px" width="94px" alt="Descomplica" src="https://imgur.com/8250YHU.jpeg"/>](https://descomplica.com.br/)
 **Pós-graduação em Projetos de Aplicativos Móveis Multiplataforma** \
 [**Descomplica**](https://descomplica.com.br/) • EAD \
 Habilidades: `Desenvolvimento Mobile`
