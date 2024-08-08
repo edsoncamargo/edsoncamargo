@@ -33,7 +33,7 @@ Skills: `Mobile Development`
 ## PROFESSIONAL EXPERIENCE 🧑🏽‍💻
 In the overview below you will find my most recent work experience:
 
-## <img align="left" height="94px" width="94px" alt="Frt" src="https://media.licdn.com/dms/image/v2/C4D0BAQFiyyEUZjtqTg/company-logo_200_200/company-logo_200_200/0/1630489561779/gft_group_logo?e=1730937600&v=beta&t=D2kHBbR4REORWocx3UjW8x-6Foc12Ef49Jaf9CVFNSI"/>
+## <img align="left" height="94px" width="94px" alt="Frt" src="https://i.imgur.com/uqdl7eW.jpeg"/>
 **Frontend Developer** \
 [**GFT Technologies**](https://www.gft.com/) • Full-time \
 Skills: `Front-end Development`, `Angular`, `HTML/SASS/JS/TS`, 
